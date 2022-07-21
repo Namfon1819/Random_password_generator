@@ -3,7 +3,7 @@ import math
 
 alpha = "abcdefghijklmnopqrstuvwxyz"
 num = "0123456789"
-special = "@#$%&*"
+special = "@#$%&*+-"
 
 # pass_len=random.randint(8,13)  #without User INput
 pass_len = int(input("Enter Password Length"))
